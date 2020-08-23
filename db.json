@@ -1,12 +1,9 @@
 {
-	"questions": [
-	{"id": 1,"survey_id": 1,"type": 0,"text": "Смотрите ли ВЫ телевизор?","title": ""}
-	]
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
-/*
- 
-	"answers": [
-	{"id": 1,"survey_id": 1,"question_id": 1,"text": "Да","comment": 0}
- 	] 
-}
-*/
